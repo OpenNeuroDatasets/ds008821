@@ -1,18 +1,15 @@
 participant_id	session_id	data_id	age	handedness	sex
-sub-00001	ses-00001	n/a	n/a	n/a	n/a
 sub-00002	ses-00001	n/a	n/a	n/a	n/a
 sub-00003	ses-00001	n/a	n/a	n/a	n/a
 sub-00004	ses-00001	n/a	n/a	n/a	n/a
 sub-00005	ses-00001	n/a	n/a	n/a	n/a
 sub-00006	ses-00001	n/a	n/a	n/a	n/a
 sub-00007	ses-00001	n/a	n/a	n/a	n/a
-sub-00008	ses-00001	n/a	n/a	n/a	n/a
 sub-00009	ses-00001	n/a	n/a	n/a	n/a
 sub-00010	ses-00001	n/a	n/a	n/a	n/a
 sub-00011	ses-00001	n/a	n/a	n/a	n/a
 sub-00012	ses-00001	n/a	n/a	n/a	n/a
 sub-00013	ses-00001	n/a	n/a	n/a	n/a
-sub-00014	ses-00001	n/a	n/a	n/a	n/a
 sub-00015	ses-00001	n/a	n/a	n/a	n/a
 sub-00016	ses-00001	n/a	n/a	n/a	n/a
 sub-00017	ses-00001	n/a	n/a	n/a	n/a
@@ -34,10 +31,7 @@ sub-00032	ses-00001	n/a	n/a	n/a	n/a
 sub-00033	ses-00001	n/a	n/a	n/a	n/a
 sub-00034	ses-00001	n/a	n/a	n/a	n/a
 sub-00035	ses-00001	n/a	n/a	n/a	n/a
-sub-00036	ses-00001	n/a	n/a	n/a	n/a
 sub-00037	ses-00001	n/a	n/a	n/a	n/a
 sub-00038	ses-00001	n/a	n/a	n/a	n/a
-sub-00039	ses-00001	n/a	n/a	n/a	n/a
 sub-00040	ses-00001	n/a	n/a	n/a	n/a
 sub-00041	ses-00001	n/a	n/a	n/a	n/a
-
