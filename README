@@ -30,6 +30,7 @@ dataset_bids/
 │   │       └── fieldmap images
 │   └── ...other sessions...
 └── dataset_description.json
+
 Usage
 For complete analysis code and scripts, see: https://github.com/ruffgroup/value_prf
 
