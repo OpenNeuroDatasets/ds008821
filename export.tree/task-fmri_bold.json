@@ -1,0 +1,6 @@
+{
+	"MagneticFieldStrength": 3,
+    "PhaseEncodingDirection": "j-",
+    "ParallelReductionFactorInPlane": 2,
+    "EffectiveEchoSpacing": 0.0004457
+  }
